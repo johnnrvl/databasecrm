@@ -1,0 +1,67 @@
+%YAML 1.1
+---
+# webstercrm.users
+-
+  id: 1
+  username: "webster"
+  password_hash: "pbkdf2:sha256:600000$q8VKy1xNuewoZAWt$8b34f4f81bdc37b514edd9ce3c90621fb1d12257256db136a4af119fcb26d11a"
+  user_type: 1
+  email: "j.naraval@yahoo.com"
+  fullname: "None"
+-
+  id: 2
+  username: "guest"
+  password_hash: "pbkdf2:sha256:600000$3RdLD6vRVY8VgYia$6c2cb0b25541f0a914757be63f2a075f673e25c664c16a1277a76211e03a53ec"
+  user_type: 0
+  email: "guest@yahoo.com"
+  fullname: null
+-
+  id: 10
+  username: "testclient"
+  password_hash: "pbkdf2:sha256:600000$LCsxfBfy2ENRYb0e$cd127600abf087afd2c1a5aa33e8b84d087f4a943a6709c269bf25238d4e5023"
+  user_type: 0
+  email: "test@yahoo.cc"
+  fullname: "TEST CLIENT"
+-
+  id: 11
+  username: "testclient1"
+  password_hash: "pbkdf2:sha256:600000$dJn3iyBe3ugn1qo4$3b74e8fea6848e4374d050016f8c90c283116c790eb95c18da37207a97016db7"
+  user_type: 0
+  email: "test@yahoo.com"
+  fullname: "Eman"
+-
+  id: 16
+  username: "testclient2"
+  password_hash: "pbkdf2:sha256:600000$fG6zD5jtZI6k5kM5$6a6e1a6065b5ba26d7135d4c5eda607d4b7b2cf3fbc7c89e744e04786f15baa8"
+  user_type: 0
+  email: "test@yahoo.com"
+  fullname: null
+-
+  id: 17
+  username: "eman"
+  password_hash: "pbkdf2:sha256:600000$I4AjF4ik2mlmSyAQ$777f2ae4e766cd98f656d33d77a7db148e51e3a6a5c1e5037e6102e1943c24a0"
+  user_type: 0
+  email: "eman@yahoo.com"
+  fullname: null
+-
+  id: 18
+  username: "testclient4"
+  password_hash: "pbkdf2:sha256:600000$tgH8rrajUlbAJkTZ$e644dd5aaac57aa4cf42ca96350e7f0ce547d3eba67cea576283041c3faf969d"
+  user_type: 0
+  email: "eman@yahoo.com"
+  fullname: "Emmanuel Palasan"
+-
+  id: 20
+  username: "123"
+  password_hash: "pbkdf2:sha256:600000$axwjEjOqjlS3Brza$7cb50c5930d9a49b6663adbcc8a0b79a55bda73f1d370bd2e5e2f3da9be1d7f9"
+  user_type: 0
+  email: "123@yahoo.com"
+  fullname: "1234"
+-
+  id: 21
+  username: "MCV"
+  password_hash: "pbkdf2:sha256:600000$Owj0uAia8KvCyHil$1a4e332b4d7b063445275fbd1cc79d19bca9ff8b4d8aefd51948685546b42c44"
+  user_type: 0
+  email: "MCV@YAHOO.COM"
+  fullname: "MCV ESCOBIA"
+...
